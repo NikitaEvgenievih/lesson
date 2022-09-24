@@ -1,0 +1,15 @@
+D:\C++_projects\ConsoleApp2409\ConsoleApp2409\bin\Debug\net6.0\ConsoleApp2409.exe
+D:\C++_projects\ConsoleApp2409\ConsoleApp2409\bin\Debug\net6.0\ConsoleApp2409.deps.json
+D:\C++_projects\ConsoleApp2409\ConsoleApp2409\bin\Debug\net6.0\ConsoleApp2409.runtimeconfig.json
+D:\C++_projects\ConsoleApp2409\ConsoleApp2409\bin\Debug\net6.0\ConsoleApp2409.dll
+D:\C++_projects\ConsoleApp2409\ConsoleApp2409\bin\Debug\net6.0\ref\ConsoleApp2409.dll
+D:\C++_projects\ConsoleApp2409\ConsoleApp2409\bin\Debug\net6.0\ConsoleApp2409.pdb
+D:\C++_projects\ConsoleApp2409\ConsoleApp2409\obj\Debug\net6.0\ConsoleApp2409.csproj.AssemblyReference.cache
+D:\C++_projects\ConsoleApp2409\ConsoleApp2409\obj\Debug\net6.0\ConsoleApp2409.GeneratedMSBuildEditorConfig.editorconfig
+D:\C++_projects\ConsoleApp2409\ConsoleApp2409\obj\Debug\net6.0\ConsoleApp2409.AssemblyInfoInputs.cache
+D:\C++_projects\ConsoleApp2409\ConsoleApp2409\obj\Debug\net6.0\ConsoleApp2409.AssemblyInfo.cs
+D:\C++_projects\ConsoleApp2409\ConsoleApp2409\obj\Debug\net6.0\ConsoleApp2409.csproj.CoreCompileInputs.cache
+D:\C++_projects\ConsoleApp2409\ConsoleApp2409\obj\Debug\net6.0\ConsoleApp2409.dll
+D:\C++_projects\ConsoleApp2409\ConsoleApp2409\obj\Debug\net6.0\ref\ConsoleApp2409.dll
+D:\C++_projects\ConsoleApp2409\ConsoleApp2409\obj\Debug\net6.0\ConsoleApp2409.pdb
+D:\C++_projects\ConsoleApp2409\ConsoleApp2409\obj\Debug\net6.0\ConsoleApp2409.genruntimeconfig.cache
